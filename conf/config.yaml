@@ -9,11 +9,11 @@ root_dir: "./data"
 # experiment:
 seed: 42
 batch_size: 1
-num_workers: 10
+num_workers: 8
 # model_name
 # in_channels
 # out_channels
-max_epochs: 20
+max_epochs: 2
 learning_rate: 3e-3
 use_scheduler: true
 
